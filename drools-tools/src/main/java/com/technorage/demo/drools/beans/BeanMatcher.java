@@ -1,4 +1,4 @@
-package com.technorage.demo.drools.beans;
+package com.technorage.demo.drools.beans; 
 
 import java.lang.reflect.InvocationTargetException;
 import java.util.HashMap;
