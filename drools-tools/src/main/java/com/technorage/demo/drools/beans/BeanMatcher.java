@@ -19,7 +19,7 @@ import org.slf4j.LoggerFactory;
  * 
  * @author Stephen Masters
  */
-public class BeanMatcher {
+public class BeanMatcher {            
     
     private static Logger log = LoggerFactory.getLogger(BeanMatcher.class);
     
