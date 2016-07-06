@@ -23,8 +23,6 @@ public class BeanMatcher {
     
     private static Logger log = LoggerFactory.getLogger(BeanMatcher.class);
     
-    
-    
     /**
      * Can all key/value pairs in the filters be found in the bean properties?
      * If any filter is not in the bean properties or the value differs, then
