@@ -8,9 +8,6 @@ import org.apache.commons.beanutils.BeanUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-
-
-
 /**
  * This class provides some general utility methods to make it easier to match
  * whether particular fields and values exist on a bean. Because it uses the
